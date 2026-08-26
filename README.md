@@ -10,8 +10,6 @@
 
 <br>
 
-<!-- TODO: replace # with confirmed LinkedIn URL before publishing -->
-
 ## About Me
 
 I work in commercial insurance underwriting and I'm completing my MBA in Data Analytics at LSU. I'm building on that experience to pursue Business Analyst, Product, and data-oriented roles, with a focus on simplifying processes and helping people make better decisions.
@@ -28,7 +26,7 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 ## Quick Access
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Underwriter360-3E5FEB?style=flat-square)](https://github.com/NylaRivarde/underwriter360)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3E5FEB?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3E5FEB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyla-rivarde-35462a14b)
 
 ## Featured Projects
 
@@ -48,4 +46,4 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 
 ## Let's Connect
 
-📫 [LinkedIn](#)
+📫 [LinkedIn](https://www.linkedin.com/in/nyla-rivarde-35462a14b)
