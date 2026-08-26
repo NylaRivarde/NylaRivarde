@@ -14,6 +14,12 @@
 
 I work in commercial insurance underwriting and I'm completing my MBA in Data Analytics at LSU. I'm building on that experience to pursue Business Analyst, Product, and data-oriented roles, with a focus on simplifying processes and helping people make better decisions.
 
+<div align="center">
+
+[![Explore My Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-4C5FDB?style=for-the-badge)](#featured-projects)
+
+</div>
+
 ## Core Capabilities
 
 - **Business Analysis** — requirements, process mapping, stakeholder needs
