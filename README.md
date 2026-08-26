@@ -35,7 +35,7 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 | | Project | What It Shows |
 |---|---|---|
 | **01** | [**Underwriter360**](https://github.com/NylaRivarde/underwriter360) — Commercial Property underwriting workflow visibility and prioritization concept | Business Analysis · Product · Process Improvement · Data<br>Requirements · Process Mapping · MVP Scoping · Prioritization · Prototyping · Stakeholder Thinking |
-| **02** | *Coming Soon* | — |
+| **02** | [**Reroute**](https://github.com/NylaRivarde/reroute) — Delta Air Lines disruption recovery experience redesign, an independent case study | Process Analysis · AS-IS/TO-BE Thinking · Requirements · Root-Cause Analysis · User Flows · Rapid Prototyping |
 
 ## Tools & Methods
 
