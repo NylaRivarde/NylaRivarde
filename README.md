@@ -12,7 +12,7 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 
 <div align="center">
 
-[![Explore My Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-4C5FDB?style=for-the-badge)](#featured-projects)
+[![Explore My Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-9750C9?style=for-the-badge)](#featured-projects)
 
 </div>
 
@@ -30,7 +30,7 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 ## Quick Access
 
 [![Underwriter360](https://img.shields.io/badge/Underwriter360-Case%20Study-9750C9?style=for-the-badge)](https://github.com/NylaRivarde/underwriter360)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C5FDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyla-rivarde-35462a14b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9750C9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyla-rivarde-35462a14b)
 
 ## Featured Projects
 
@@ -68,9 +68,9 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 
 **Delivery & Collaboration**
 
-![Jira](https://img.shields.io/badge/Jira-4C5FDB?style=flat-square&logo=jira&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-4C5FDB?style=flat-square&logoColor=white)
-![Stakeholder Collaboration](https://img.shields.io/badge/Stakeholder%20Collaboration-4C5FDB?style=flat-square&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-C15FA0?style=flat-square&logo=jira&logoColor=white)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-C15FA0?style=flat-square&logoColor=white)
+![Stakeholder Collaboration](https://img.shields.io/badge/Stakeholder%20Collaboration-C15FA0?style=flat-square&logoColor=white)
 
 **AI & Prototyping**
 
@@ -89,9 +89,9 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 
 ## Certifications
 
-<img src="assets/cert-cspo.svg" alt="CSPO — Certified Scrum Product Owner" height="88" />
-<img src="assets/cert-jira.svg" alt="Jira Essentials" height="88" />
-<img src="assets/cert-aws-ai.svg" alt="AWS Certified AI Practitioner" height="88" />
+<img src="assets/cert-cspo.svg" alt="CSPO — Certified Scrum Product Owner" height="70" />
+<img src="assets/cert-jira.svg" alt="Jira Essentials" height="70" />
+<img src="assets/cert-aws-ai.svg" alt="AWS Certified AI Practitioner" height="70" />
 
 ## Let's Connect
 
