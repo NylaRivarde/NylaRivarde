@@ -29,15 +29,16 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 
 ## Quick Access
 
-[![Underwriter360](https://img.shields.io/badge/Underwriter360-Case%20Study-9750C9?style=for-the-badge)](https://github.com/NylaRivarde/underwriter360)
+[![ClearQueue](https://img.shields.io/badge/ClearQueue-Case%20Study-9750C9?style=for-the-badge)](https://github.com/NylaRivarde/clearqueue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9750C9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyla-rivarde-35462a14b)
 
 ## Featured Projects
 
 | | Project | What It Shows |
 |---|---|---|
-| **01** | [**Underwriter360**](https://github.com/NylaRivarde/underwriter360) — Commercial Property underwriting workflow visibility and prioritization concept | Business Analysis · Product · Process Improvement · Data<br>Requirements · Process Mapping · MVP Scoping · Prioritization · Prototyping · Stakeholder Thinking |
+| **01** | [**ClearQueue**](https://github.com/NylaRivarde/clearqueue) — Commercial Property underwriting workflow visibility and prioritization concept | Business Analysis · Product · Process Improvement · Data<br>Requirements · Process Mapping · MVP Scoping · Prioritization · Prototyping · Stakeholder Thinking |
 | **02** | [**Reroute**](https://github.com/NylaRivarde/reroute) — Delta Air Lines disruption recovery experience redesign, an independent case study | Process Analysis · AS-IS/TO-BE Thinking · Requirements · Root-Cause Analysis · User Flows · Rapid Prototyping |
+| **03** | [**TriageSure**](https://github.com/NylaRivarde/triagesure) — AI-assisted commercial property submission intake, an applied-AI / responsible-AI-design case study | Applied AI · Responsible AI Design · Structured Extraction · Grounding & Citation · Confidence Scoring · Human-in-the-Loop |
 
 ## Tools & Methods
 
