@@ -89,9 +89,7 @@ I work in commercial insurance underwriting and I'm completing my MBA in Data An
 
 ## Certifications
 
-<img src="assets/cert-cspo.svg" alt="CSPO — Certified Scrum Product Owner" height="70" />
-<img src="assets/cert-jira.svg" alt="Jira Essentials" height="70" />
-<img src="assets/cert-aws-ai.svg" alt="AWS Certified AI Practitioner" height="70" />
+<img src="assets/cert-cspo.svg" alt="CSPO — Certified Scrum Product Owner" height="70" /> <img src="assets/cert-jira.svg" alt="Jira Essentials" height="70" /> <img src="assets/cert-aws-ai.svg" alt="AWS Certified AI Practitioner" height="70" />
 
 ## Let's Connect
 
