@@ -1,0 +1,12 @@
+<svg width="320" height="88" viewBox="0 0 320 88" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AWS — AWS Certified AI Practitioner">
+  <rect x="1" y="1" width="318" height="86" rx="10" fill="#FBEFFB" stroke="#9750C9" stroke-width="1.5"/>
+
+  <!-- original seal glyph: circle + checkmark, not an official AWS mark -->
+  <circle cx="42" cy="44" r="19" fill="#9750C9"/>
+  <path d="M34 44 L40 50 L52 37" stroke="#FBEFFB" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="74" y="40" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="19" font-weight="700" letter-spacing="1" fill="#2E2266">AWS</text>
+  <text x="74" y="59" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="12" fill="#4C5FDB">AWS Certified AI Practitioner</text>
+</svg>
