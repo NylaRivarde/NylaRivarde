@@ -1,10 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.svg" alt="Nyla Rivarde — Business Analyst" width="100%" />
-
-  <br>
-
-  ### Business Analysis · Product · Process Improvement · Data
+  <img src="assets/banner-final.png" alt="Nyla Rivarde — Business & Product Analyst — Strategy, Data, AI" width="100%" />
 
 </div>
 
